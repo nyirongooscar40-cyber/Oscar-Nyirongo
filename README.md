@@ -1,5 +1,5 @@
 # 🖐️ I'm Oscar-Nyirongo 
-### Data Analyst | Data Science Enthusiast | Business Intelligence | Analytics
+### Data Scientist | Data Analyst Enthusiast | Business Intelligence | Analytics
 
 ---
 
