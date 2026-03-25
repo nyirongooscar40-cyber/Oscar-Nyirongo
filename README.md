@@ -1,4 +1,4 @@
-# 🖐️ I'm Oscar-Nyirongo 
+# 🖐️ I'm Oscar Nyirongo 
 ### Data Scientist | Data Analyst Enthusiast | Business Intelligence | Analytics
 
 ---
